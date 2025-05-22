@@ -1,1 +1,30 @@
-# User-Access-Management-System
+# 🛡️ User Access Management System
+
+A full-stack web application for managing access to internal software in an organization based on user roles.
+
+---
+
+## 📌 Project Overview
+
+This app allows:
+- 🧑‍💼 Employees to request access to internal software.
+- ✅ Managers to approve or reject requests.
+- 🛠️ Admins to create new software and define access levels.
+
+---
+
+## 🔧 Tech Stack
+
+| Layer      | Tech                        |
+|------------|-----------------------------|
+| Frontend   | React + Vite + TypeScript   |
+| Backend    | Node.js + Express.js        |
+| Database   | PostgreSQL                  |
+| ORM        | TypeORM                     |
+| Auth       | JWT, bcrypt                 |
+| Deployment | Vercel (frontend), Render (backend) |
+
+---
+
+## 📁 Folder Structure
+
